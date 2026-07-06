@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-06-23T12:20:15.757Z",
+  "lib": [
+    "comi-schema-cards.cjs.js",
+    "comi-schema-cards.cjs.js.map",
+    "comi-schema-cards.esm.js",
+    "comi-schema-cards.esm.js.map",
+    "components-5868100c.mjs",
+    "components-5868100c.mjs.map",
+    "components-9c1af24d.js",
+    "components-9c1af24d.js.map",
+    "core-80744318.js",
+    "core-80744318.js.map",
+    "core-b76037aa.mjs",
+    "core-b76037aa.mjs.map",
+    "utils-524e2173.mjs",
+    "utils-524e2173.mjs.map",
+    "utils-5f0bd8be.js",
+    "utils-5f0bd8be.js.map",
+    "vendor-3812749c.js",
+    "vendor-3812749c.js.map",
+    "vendor-7b08b72f.mjs",
+    "vendor-7b08b72f.mjs.map"
+  ],
+  "assets": [
+    "images",
+    "style.css"
+  ]
+}

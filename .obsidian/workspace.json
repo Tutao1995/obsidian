@@ -11,10 +11,14 @@
             "id": "81662b2fa85e6934",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "company/任务项/未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -152,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "company/任务项/【cap+agent】提示语优化代码.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "【cap+agent】提示语优化代码 的大纲"
             }
           },
           {
@@ -175,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 741.5
+    "width": 582.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,25 +196,38 @@
   },
   "active": "81662b2fa85e6934",
   "lastOpenFiles": [
+    "未命名.md",
+    "company/任务项/未命名.md",
+    "模板",
+    "未命名.canvas",
+    "初始语法学习/语法学习.md",
+    "company/任务项/迁移skill.md",
+    "初始语法学习",
+    "company/任务项/cap-front 模板构建.md",
+    "迁移skill111.md",
+    "manifest.json",
+    "company/任务项/ai低版本迁移.md",
+    "personal/运维/Linux 常用命令.md",
+    "company/任务项/【智能预审】.md",
+    "company/任务项/【cap+agent】提示语优化代码.md",
+    "company/任务项/信通院 智能办公2.0 低版本迁移.md",
+    "company/任务项/【智能发起优化】附件开发项目总结.md",
+    "README.md",
+    "beaf0d83-17f0-4a66-988f-cedeab46904c.png",
+    "Pasted image 20260610134738.png",
     "personal/后端/java/java-learning-path.md",
     "未命名 1.base",
     "未命名.base",
     "personal/后端/java/java-daily-roadmap.md",
-    "personal/运维/Linux 常用命令.md",
     "ai/claude code rules.md",
     "personal/运维",
     "ai/readme.md",
-    "company/任务项/【cap+agent】提示语优化代码.md",
     "manual-association-refill-optimization.zip",
     "4002f361e72d53ffece8fe201089d053.png",
-    "company/任务项/信通院 智能办公2.0 低版本迁移.md",
     "出包.zip",
     "patch_downgrade_20260413.zip",
     "Pasted image 20260415103946.png",
     "company/任务项",
-    "ai/claude/plugins",
-    "ai/claude/skills",
-    "ai/未命名",
     "创建链接.md",
     "欢迎.md"
   ]
